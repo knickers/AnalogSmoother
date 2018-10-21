@@ -1,7 +1,7 @@
 #ifndef AnalogSmoother_h
 #define AnalogSmoother_h
 
-#include "Arduino.h"
+#include "Particle.h"
 
 class AnalogSmoother {
 	public:
